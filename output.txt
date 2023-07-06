@@ -1,0 +1,3 @@
+Shortest Path from Akka to Bethlehem
+Distance: 239
+Path: Akka (74km) -> Jenin (30km) -> Tubas (52km) -> Jericho (53km) -> Ramallah (30km) -> Bethlehem
