@@ -535,7 +535,7 @@ int main() {
                 printf("Please enter the source city:\n ");
                 scanf("%s", desCity);
 
-                printf("Dijkstra Results:\n:");
+                printf("\n\nDijkstra Results:\n:");
                 dijkstra(graph, srcCity, desCity);
                 printf("\n-----------------------------------------\n");
                 //BFS:
@@ -546,6 +546,8 @@ int main() {
             case 4:
                  // exit and print the short path to a output file.
                  bfs(graph, srcCity, desCity,2);
+                 printf("\n good bay Data Structure\n ");
+                 exitFlag = 1;
 
                  break;
 
